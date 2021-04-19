@@ -1,0 +1,13 @@
+body {
+    width: 50vw;
+    margin: 0 auto;
+    background-color: wheat;
+}
+
+.container {
+    border: 5px solid black;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
